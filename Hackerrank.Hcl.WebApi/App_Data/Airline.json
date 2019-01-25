@@ -1,0 +1,51 @@
+[
+  {
+    "from": "LGA",
+    "to": "FLL",
+    "departDate": "2019-01-25",
+    "airline": "JetBlue",
+    "price": 233
+  },
+  {
+    "from": "JFK",
+    "to": "MIA",
+    "departDate": "2019-01-25",
+    "airline": "United",
+    "price": 289
+  },
+  {
+    "from": "LGA",
+    "to": "MIA",
+    "departDate": "2019-01-25",
+    "airline": "Delta",
+    "price": 220
+  },
+  {
+    "from": "LGA",
+    "to": "MIA",
+    "departDate": "2019-01-25",
+    "airline": "Delta",
+    "price": 218
+  },
+  {
+    "from": "LGA",
+    "to": "MIA",
+    "departDate": "2019-01-25",
+    "airline": "United",
+    "price": 289
+  },
+  {
+    "from": "LGA",
+    "to": "FLL",
+    "departDate": "2019-01-25",
+    "airline": "Continental",
+    "price": 762
+  },
+  {
+    "from": "EWR",
+    "to": "MIA",
+    "departDate": "2019-01-25",
+    "airline": "Continental",
+    "price": 239
+  }
+]
